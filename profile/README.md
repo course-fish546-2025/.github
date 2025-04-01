@@ -1,6 +1,6 @@
 # 🧬 Bioinformatics - FISH 546 :: Spring 2025
 
-Welcome to the course repository for **FISH 546: Bioinformatics for Environmental Sciences** at the University of Washington.
+Welcome to the course repository for [**FISH 546: Bioinformatics for Environmental Sciences**](https://sr320.github.io/course-fish546-2025/) at the University of Washington.
 
 This class introduces students to core computing skills and project-specific bioinformatics approaches, with an emphasis on **reproducibility**, **automation**, and **research-ready workflows**. Each student will design and complete a research project aimed at **journal submission** by the end of the quarter.
 
