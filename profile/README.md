@@ -22,4 +22,3 @@ This class introduces students to core computing skills and project-specific bio
   - `assignments/` for weekly tasks
   - `project/` for your individual research
 - Use meaningful commit messages and commit regularly.
-- All final work must be pushed before the stated deadlines.
