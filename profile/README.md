@@ -12,6 +12,7 @@ This class introduces students to core computing skills and project-specific bio
 - **Raven Server:** [http://raven.fish.washington.edu:8787](http://raven.fish.washington.edu:8787)  
 - **Hyak (Klone):** `ssh klone.hyak.uw.edu`  
 - **Zoom:** [Course Zoom Link](https://washington.zoom.us/j/97438593750)
+- **Hyak on Demand:** [https://ondemand.hyak.uw.edu/pun/sys/dashboard/](https://ondemand.hyak.uw.edu/pun/sys/dashboard/)
 
 
 ## 🧾 Submitting Work
